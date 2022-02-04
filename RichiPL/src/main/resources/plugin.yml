@@ -1,0 +1,8 @@
+name: RichiPL
+version: '${project.version}'
+main: cl.richi.test.main
+api-version: 1.18
+authors: [ RichiDev ]
+commands:
+  test:
+    description: Fly on

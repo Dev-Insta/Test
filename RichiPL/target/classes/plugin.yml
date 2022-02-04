@@ -1,0 +1,8 @@
+name: RichiPL
+version: '1.0-SNAPSHOT'
+main: cl.richi.test.main
+api-version: 1.18
+authors: [ RichiDev ]
+commands:
+  test:
+    description: Fly on
